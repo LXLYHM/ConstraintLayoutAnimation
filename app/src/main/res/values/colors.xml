@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTranslucent">#004a4a4a</color>
+    <color name="colorWhiteTranslucent">#80ffffff</color>
+    <!-- 窗口颜色-->
+    <color name="colorwindowBackground">#F4F4F4</color>
+    <color name="colorTextPrimaryLight">#4A4A4A</color>
+    <color name="colorLine">#B2B2B2</color>
+    <color name="white">#ffffff</color>
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorGrayGreen">#8a8157</color>
+</resources>
